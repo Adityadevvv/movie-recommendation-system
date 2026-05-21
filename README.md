@@ -66,7 +66,7 @@ python app.py                   # to serve predictions
 
 ## 📂 Project Structure
 ```
-NewTeamblack/
+mern-recommendation-system/
 ├── Backend/              # Node.js backend code
 │   ├── Index.js
 │   ├── Model.js
