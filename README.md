@@ -93,3 +93,11 @@ Once the services are running:
 1. Go to [http://localhost:3000](http://localhost:3000) (React app).
 2. Enter your preferences.
 3. Receive personalized movie recommendations!
+
+
+
+https://github.com/user-attachments/assets/8977c9fb-7695-4698-961b-372217866db0
+
+
+
+
